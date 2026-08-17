@@ -88,7 +88,7 @@ The dataset contains image-based measurements of dry beans:
 
 # 3. GitHub Repository Link
 
-(Add your GitHub link here)
+https://github.com/Aishwarya-2408/ML_Assignment_2.git
 
 
 ---
